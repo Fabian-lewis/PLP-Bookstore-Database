@@ -74,8 +74,8 @@ This project implements a bookstore database system using **PostgreSQL**. It cov
 To test roles, either log in with each user:
 
 ![Screenshot users can select some data](assets/screenshot1.png)
--charlie_cust is a customer.
--Customers can't delete a table or anything else in the database.
+- charlie_cust is a customer.
+- Customers can't delete a table or anything else in the database.
 
 ![Screenshot showing some admin roles](assets/screenshot2.png)
 - The user is set to alice_admin who is an admin. This user can insert data into any table.
@@ -88,4 +88,7 @@ To test roles, either log in with each user:
 - The user roles can be linked to the users table to ensure smooth operation in a working system.
 
 
+## Credits
+Fabian Ndung'u 😎
+Database Administator
 
